@@ -11,6 +11,8 @@ def main():
     first_name = 'caroline'
     
     print(f"Sweet {first_name.title()}!")
+    print("Lets do a game or something?")
+    
     
     
 if __name__ == '__main__':
